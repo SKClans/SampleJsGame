@@ -1,0 +1,964 @@
+{
+  "ID": "3c9234e3-0b13-477f-a7dc-d691ae53176f",
+  "Version": "2.3.2.0",
+  "Name": "Setting",
+  "Content": {
+    "Content": {
+      "Animation": {
+        "Duration": 0,
+        "Speed": 1.0,
+        "Timelines": [],
+        "ctype": "TimelineActionData"
+      },
+      "AnimationList": [],
+      "ObjectData": {
+        "Tag": 20,
+        "Children": [
+          {
+            "BackColorAlpha": 0,
+            "ComboBoxIndex": 1,
+            "SingleColor": {
+              "R": 150,
+              "G": 200
+            },
+            "FirstColor": {
+              "R": 150,
+              "G": 200
+            },
+            "EndColor": {},
+            "ColorVector": {
+              "ScaleY": 1.0
+            },
+            "TouchEnable": true,
+            "AnchorPoint": {},
+            "Position": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PositionPercentXEnabled": true,
+            "PositionPercentYEnabled": true,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PercentWidthEnable": true,
+            "PercentHeightEnable": true,
+            "PercentWidthEnabled": true,
+            "PercentHeightEnabled": true,
+            "PreSize": {
+              "X": 1.0,
+              "Y": 0.913
+            },
+            "TopMargin": 40.0,
+            "Tag": 49,
+            "Children": [
+              {
+                "BackColorAlpha": 0,
+                "ComboBoxIndex": 1,
+                "SingleColor": {
+                  "R": 150,
+                  "G": 200
+                },
+                "FirstColor": {
+                  "R": 150,
+                  "G": 200
+                },
+                "EndColor": {},
+                "ColorVector": {
+                  "ScaleY": 1.0
+                },
+                "TouchEnable": true,
+                "AnchorPoint": {},
+                "Position": {
+                  "X": -0.001,
+                  "Y": 0.0
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PositionPercentXEnabled": true,
+                "PositionPercentYEnabled": true,
+                "PrePosition": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "PercentWidthEnable": true,
+                "PercentHeightEnable": true,
+                "PercentWidthEnabled": true,
+                "PercentHeightEnabled": true,
+                "PreSize": {
+                  "X": 1.0,
+                  "Y": 1.0
+                },
+                "LeftMargin": -0.001,
+                "RightMargin": 0.001,
+                "Tag": 37,
+                "Children": [
+                  {
+                    "FileData": {
+                      "Type": "Normal",
+                      "Path": "Setting/PvPMsgBoard.png",
+                      "Plist": ""
+                    },
+                    "Scale9Width": 2,
+                    "Scale9Height": 2,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 165.8457,
+                      "Y": 209.9874
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PositionPercentXEnabled": true,
+                    "PositionPercentYEnabled": true,
+                    "PrePosition": {
+                      "X": 0.5026,
+                      "Y": 0.5
+                    },
+                    "PercentWidthEnable": true,
+                    "PercentHeightEnable": true,
+                    "PercentWidthEnabled": true,
+                    "PercentHeightEnabled": true,
+                    "PreSize": {
+                      "X": 0.9231,
+                      "Y": 0.9524
+                    },
+                    "LeftMargin": 13.538,
+                    "RightMargin": 11.8466,
+                    "TopMargin": 10.0026,
+                    "BottomMargin": 9.9974,
+                    "Tag": 38,
+                    "ActionTag": -1395195443,
+                    "Size": {
+                      "X": 304.623,
+                      "Y": 399.989
+                    },
+                    "Name": "Image_5",
+                    "ctype": "ImageViewObjectData"
+                  },
+                  {
+                    "FileData": {
+                      "Type": "Normal",
+                      "Path": "Setting/pvpangle05.png",
+                      "Plist": ""
+                    },
+                    "Scale9Enable": true,
+                    "Scale9OriginX": 20,
+                    "Scale9OriginY": 16,
+                    "Scale9Width": 15,
+                    "Scale9Height": 19,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 79.6809,
+                      "Y": 356.7099
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PositionPercentXEnabled": true,
+                    "PositionPercentYEnabled": true,
+                    "PrePosition": {
+                      "X": 0.2415,
+                      "Y": 0.8493
+                    },
+                    "PercentWidthEnable": true,
+                    "PercentHeightEnable": true,
+                    "PercentWidthEnabled": true,
+                    "PercentHeightEnabled": true,
+                    "PreSize": {
+                      "X": 0.4615,
+                      "Y": 0.2381
+                    },
+                    "LeftMargin": 3.5271,
+                    "RightMargin": 174.1653,
+                    "TopMargin": 13.2731,
+                    "BottomMargin": 306.7269,
+                    "Tag": 22,
+                    "ActionTag": 1161980938,
+                    "Size": {
+                      "X": 152.295,
+                      "Y": 99.9972
+                    },
+                    "Name": "Image_119",
+                    "ctype": "ImageViewObjectData"
+                  },
+                  {
+                    "FileData": {
+                      "Type": "Normal",
+                      "Path": "Setting/pvpangle06.png",
+                      "Plist": ""
+                    },
+                    "Scale9Enable": true,
+                    "Scale9OriginX": 20,
+                    "Scale9Width": 16,
+                    "Scale9Height": 10,
+                    "AnchorPoint": {
+                      "ScaleY": 1.0
+                    },
+                    "Position": {
+                      "X": 3.5279,
+                      "Y": 306.5527
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PositionPercentXEnabled": true,
+                    "PositionPercentYEnabled": true,
+                    "PrePosition": {
+                      "X": 0.0107,
+                      "Y": 0.7299
+                    },
+                    "PercentWidthEnable": true,
+                    "PercentHeightEnable": true,
+                    "PercentWidthEnabled": true,
+                    "PercentHeightEnabled": true,
+                    "PreSize": {
+                      "X": 0.4615,
+                      "Y": 0.7143
+                    },
+                    "LeftMargin": 3.5279,
+                    "RightMargin": 174.1644,
+                    "TopMargin": 113.4327,
+                    "BottomMargin": 6.5673,
+                    "Tag": 24,
+                    "ActionTag": -635398075,
+                    "Size": {
+                      "X": 152.295,
+                      "Y": 299.9917
+                    },
+                    "Name": "Image_119_0",
+                    "ctype": "ImageViewObjectData"
+                  },
+                  {
+                    "FlipX": true,
+                    "FileData": {
+                      "Type": "Normal",
+                      "Path": "Setting/pvpangle05.png",
+                      "Plist": ""
+                    },
+                    "Scale9Enable": true,
+                    "Scale9OriginX": 20,
+                    "Scale9OriginY": 16,
+                    "Scale9Width": 15,
+                    "Scale9Height": 19,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 241.7509,
+                      "Y": 356.7096
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PositionPercentXEnabled": true,
+                    "PositionPercentYEnabled": true,
+                    "PrePosition": {
+                      "X": 0.7326,
+                      "Y": 0.8493
+                    },
+                    "PercentWidthEnable": true,
+                    "PercentHeightEnable": true,
+                    "PercentWidthEnabled": true,
+                    "PercentHeightEnabled": true,
+                    "PreSize": {
+                      "X": 0.5231,
+                      "Y": 0.2381
+                    },
+                    "LeftMargin": 155.4381,
+                    "RightMargin": 1.9363,
+                    "TopMargin": 13.2734,
+                    "BottomMargin": 306.7266,
+                    "Tag": 26,
+                    "ActionTag": 1062831921,
+                    "Size": {
+                      "X": 172.623,
+                      "Y": 99.9972
+                    },
+                    "Name": "Image_119_1",
+                    "ctype": "ImageViewObjectData"
+                  },
+                  {
+                    "FlipX": true,
+                    "FileData": {
+                      "Type": "Normal",
+                      "Path": "Setting/pvpangle06.png",
+                      "Plist": ""
+                    },
+                    "Scale9Enable": true,
+                    "Scale9OriginX": 20,
+                    "Scale9Width": 16,
+                    "Scale9Height": 10,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5
+                    },
+                    "Position": {
+                      "X": 241.7509,
+                      "Y": 6.568
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PositionPercentXEnabled": true,
+                    "PositionPercentYEnabled": true,
+                    "PrePosition": {
+                      "X": 0.7326,
+                      "Y": 0.0156
+                    },
+                    "PercentWidthEnable": true,
+                    "PercentHeightEnable": true,
+                    "PercentWidthEnabled": true,
+                    "PercentHeightEnabled": true,
+                    "PreSize": {
+                      "X": 0.5231,
+                      "Y": 0.7143
+                    },
+                    "LeftMargin": 155.4381,
+                    "RightMargin": 1.9363,
+                    "TopMargin": 113.4317,
+                    "BottomMargin": 6.5683,
+                    "Tag": 28,
+                    "ActionTag": -1872030490,
+                    "Size": {
+                      "X": 172.623,
+                      "Y": 299.9917
+                    },
+                    "Name": "Image_119_2",
+                    "ctype": "ImageViewObjectData"
+                  },
+                  {
+                    "FileData": {
+                      "Type": "Normal",
+                      "Path": "Setting/pvpangle03.png",
+                      "Plist": ""
+                    },
+                    "Scale9Width": 44,
+                    "Scale9Height": 52,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 21.0062,
+                      "Y": 382.7127
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.0637,
+                      "Y": 0.9113
+                    },
+                    "PreSize": {
+                      "X": 0.1467,
+                      "Y": 0.13
+                    },
+                    "VerticalEdge": "TopEdge",
+                    "LeftMargin": -0.9938,
+                    "RightMargin": 286.9938,
+                    "TopMargin": 11.2673,
+                    "BottomMargin": 356.7327,
+                    "Tag": 39,
+                    "ActionTag": -1641636652,
+                    "Size": {
+                      "X": 44.0,
+                      "Y": 52.0
+                    },
+                    "Name": "Image_6",
+                    "ctype": "ImageViewObjectData"
+                  },
+                  {
+                    "FlipX": true,
+                    "FileData": {
+                      "Type": "Normal",
+                      "Path": "Setting/pvpangle03.png",
+                      "Plist": ""
+                    },
+                    "Scale9Width": 44,
+                    "Scale9Height": 52,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 308.0184,
+                      "Y": 382.7127
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.9334,
+                      "Y": 0.9113
+                    },
+                    "PreSize": {
+                      "X": 0.1467,
+                      "Y": 0.13
+                    },
+                    "HorizontalEdge": "RightEdge",
+                    "VerticalEdge": "TopEdge",
+                    "LeftMargin": 286.0184,
+                    "RightMargin": -0.0184,
+                    "TopMargin": 11.2673,
+                    "BottomMargin": 356.7327,
+                    "Tag": 40,
+                    "ActionTag": 132815445,
+                    "Size": {
+                      "X": 44.0,
+                      "Y": 52.0
+                    },
+                    "Name": "Image_6_0",
+                    "ctype": "ImageViewObjectData"
+                  },
+                  {
+                    "FileData": {
+                      "Type": "Normal",
+                      "Path": "Setting/pvpangle04.png",
+                      "Plist": ""
+                    },
+                    "Scale9Width": 44,
+                    "Scale9Height": 52,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 20.3397,
+                      "Y": 28.4539
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.0616,
+                      "Y": 0.0677
+                    },
+                    "PreSize": {
+                      "X": 0.1467,
+                      "Y": 0.13
+                    },
+                    "LeftMargin": -1.6603,
+                    "RightMargin": 287.6603,
+                    "TopMargin": 365.5461,
+                    "BottomMargin": 2.4539,
+                    "Tag": 41,
+                    "ActionTag": 813119364,
+                    "Size": {
+                      "X": 44.0,
+                      "Y": 52.0
+                    },
+                    "Name": "Image_6_1",
+                    "ctype": "ImageViewObjectData"
+                  },
+                  {
+                    "FlipX": true,
+                    "FileData": {
+                      "Type": "Normal",
+                      "Path": "Setting/pvpangle04.png",
+                      "Plist": ""
+                    },
+                    "Scale9Width": 44,
+                    "Scale9Height": 52,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 308.0184,
+                      "Y": 27.4542
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.9334,
+                      "Y": 0.0654
+                    },
+                    "PreSize": {
+                      "X": 0.1467,
+                      "Y": 0.13
+                    },
+                    "HorizontalEdge": "RightEdge",
+                    "LeftMargin": 286.0184,
+                    "RightMargin": -0.0184,
+                    "TopMargin": 366.5458,
+                    "BottomMargin": 1.4542,
+                    "Tag": 42,
+                    "ActionTag": -700550813,
+                    "Size": {
+                      "X": 44.0,
+                      "Y": 52.0
+                    },
+                    "Name": "Image_6_1_0",
+                    "ctype": "ImageViewObjectData"
+                  }
+                ],
+                "ActionTag": -1861882651,
+                "Size": {
+                  "X": 330.0,
+                  "Y": 419.98
+                },
+                "Name": "Panel_1",
+                "ctype": "PanelObjectData"
+              },
+              {
+                "FileData": {
+                  "Type": "Normal",
+                  "Path": "DifficultySelection/DS16.png",
+                  "Plist": ""
+                },
+                "Scale9Width": 270,
+                "Scale9Height": 94,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 165.0,
+                  "Y": 411.5804
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PositionPercentXEnabled": true,
+                "PositionPercentYEnabled": true,
+                "PrePosition": {
+                  "X": 0.5,
+                  "Y": 0.98
+                },
+                "PreSize": {
+                  "X": 0.9,
+                  "Y": 0.235
+                },
+                "LeftMargin": 30.0,
+                "RightMargin": 30.0,
+                "TopMargin": -38.6,
+                "BottomMargin": 364.6,
+                "Tag": 43,
+                "Children": [
+                  {
+                    "FileData": {
+                      "Type": "Normal",
+                      "Path": "Setting/BaS07.png",
+                      "Plist": ""
+                    },
+                    "Scale9Width": 182,
+                    "Scale9Height": 59,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 134.9991,
+                      "Y": 52.0
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PositionPercentXEnabled": true,
+                    "PositionPercentYEnabled": true,
+                    "PrePosition": {
+                      "X": 0.5,
+                      "Y": 0.5532
+                    },
+                    "PreSize": {
+                      "X": 0.6741,
+                      "Y": 0.6277
+                    },
+                    "LeftMargin": 43.9991,
+                    "RightMargin": 44.0009,
+                    "TopMargin": 12.5,
+                    "BottomMargin": 22.5,
+                    "Tag": 44,
+                    "ActionTag": -1388459788,
+                    "Size": {
+                      "X": 182.0,
+                      "Y": 59.0
+                    },
+                    "Name": "Image_10_0",
+                    "ctype": "ImageViewObjectData"
+                  }
+                ],
+                "ActionTag": 1562463374,
+                "Size": {
+                  "X": 270.0,
+                  "Y": 94.0
+                },
+                "Name": "Image_10",
+                "ctype": "ImageViewObjectData"
+              },
+              {
+                "FileData": {
+                  "Type": "Normal",
+                  "Path": "Setting/BaS11.png",
+                  "Plist": ""
+                },
+                "Scale9Width": 154,
+                "Scale9Height": 59,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 165.0,
+                  "Y": 335.984
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PositionPercentXEnabled": true,
+                "PositionPercentYEnabled": true,
+                "PrePosition": {
+                  "X": 0.5,
+                  "Y": 0.8
+                },
+                "PreSize": {
+                  "X": 0.5133,
+                  "Y": 0.1475
+                },
+                "LeftMargin": 88.0,
+                "RightMargin": 88.0,
+                "TopMargin": 54.5,
+                "BottomMargin": 306.5,
+                "Tag": 45,
+                "ActionTag": 1241577883,
+                "Size": {
+                  "X": 154.0,
+                  "Y": 59.0
+                },
+                "Name": "Image_10_1",
+                "ctype": "ImageViewObjectData"
+              },
+              {
+                "BackGroundData": {
+                  "Type": "Normal",
+                  "Path": "Setting/DnE10.png",
+                  "Plist": ""
+                },
+                "ProgressBarData": {
+                  "Type": "Normal",
+                  "Path": "Setting/DnE15.png",
+                  "Plist": ""
+                },
+                "BallNormalData": {
+                  "Type": "Normal",
+                  "Path": "Setting/Star026.png",
+                  "Plist": ""
+                },
+                "BallPressedData": {
+                  "Type": "Normal",
+                  "Path": "Setting/Star026_2.png",
+                  "Plist": ""
+                },
+                "BallDisabledData": {
+                  "Type": "Normal",
+                  "Path": "Setting/Star026_2.png",
+                  "Plist": ""
+                },
+                "PercentInfo": 50,
+                "TouchEnable": true,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 165.0,
+                  "Y": 272.987
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PositionPercentXEnabled": true,
+                "PositionPercentYEnabled": true,
+                "PrePosition": {
+                  "X": 0.5,
+                  "Y": 0.65
+                },
+                "PreSize": {
+                  "X": 0.4281,
+                  "Y": 0.0188
+                },
+                "LeftMargin": 28.0,
+                "RightMargin": 28.0,
+                "TopMargin": 138.0,
+                "BottomMargin": 264.0,
+                "Tag": 33,
+                "ActionTag": 746044812,
+                "Size": {
+                  "X": 274.0,
+                  "Y": 18.0
+                },
+                "Name": "Slider_7_Copy",
+                "ctype": "SliderObjectData"
+              },
+              {
+                "FileData": {
+                  "Type": "Normal",
+                  "Path": "Setting/BaS17.png",
+                  "Plist": ""
+                },
+                "Scale9Width": 154,
+                "Scale9Height": 59,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 165.0,
+                  "Y": 209.99
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PositionPercentXEnabled": true,
+                "PositionPercentYEnabled": true,
+                "PrePosition": {
+                  "X": 0.5,
+                  "Y": 0.5
+                },
+                "PreSize": {
+                  "X": 0.5133,
+                  "Y": 0.1475
+                },
+                "LeftMargin": 88.0,
+                "RightMargin": 88.0,
+                "TopMargin": 180.5,
+                "BottomMargin": 180.5,
+                "Tag": 46,
+                "ActionTag": -653378935,
+                "Size": {
+                  "X": 154.0,
+                  "Y": 59.0
+                },
+                "Name": "Image_10_2",
+                "ctype": "ImageViewObjectData"
+              },
+              {
+                "BackGroundData": {
+                  "Type": "Normal",
+                  "Path": "Setting/DnE10.png",
+                  "Plist": ""
+                },
+                "ProgressBarData": {
+                  "Type": "Normal",
+                  "Path": "Setting/DnE15.png",
+                  "Plist": ""
+                },
+                "BallNormalData": {
+                  "Type": "Normal",
+                  "Path": "Setting/Star026.png",
+                  "Plist": ""
+                },
+                "BallPressedData": {
+                  "Type": "Normal",
+                  "Path": "Setting/Star026_2.png",
+                  "Plist": ""
+                },
+                "BallDisabledData": {
+                  "Type": "Normal",
+                  "Path": "Setting/Star026_2.png",
+                  "Plist": ""
+                },
+                "PercentInfo": 50,
+                "TouchEnable": true,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 165.0,
+                  "Y": 146.993
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PositionPercentXEnabled": true,
+                "PositionPercentYEnabled": true,
+                "PrePosition": {
+                  "X": 0.5,
+                  "Y": 0.35
+                },
+                "PreSize": {
+                  "X": 0.4281,
+                  "Y": 0.0188
+                },
+                "LeftMargin": 28.0,
+                "RightMargin": 28.0,
+                "TopMargin": 264.0,
+                "BottomMargin": 138.0,
+                "Tag": 32,
+                "ActionTag": -1614400020,
+                "Size": {
+                  "X": 274.0,
+                  "Y": 18.0
+                },
+                "Name": "Slider_7",
+                "ctype": "SliderObjectData"
+              },
+              {
+                "FontSize": 14,
+                "ButtonText": "",
+                "TextColor": {
+                  "R": 65,
+                  "G": 65,
+                  "B": 70
+                },
+                "DisabledFileData": {
+                  "Type": "Normal",
+                  "Path": "Setting/BaS10.png",
+                  "Plist": ""
+                },
+                "PressedFileData": {
+                  "Type": "Normal",
+                  "Path": "Setting/BaS09.png",
+                  "Plist": ""
+                },
+                "NormalFileData": {
+                  "Type": "Normal",
+                  "Path": "Setting/BaS08.png",
+                  "Plist": ""
+                },
+                "Scale9Width": 154,
+                "Scale9Height": 59,
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "TouchEnable": true,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 165.0,
+                  "Y": 83.996
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PositionPercentXEnabled": true,
+                "PositionPercentYEnabled": true,
+                "PrePosition": {
+                  "X": 0.5,
+                  "Y": 0.2
+                },
+                "PreSize": {
+                  "X": 0.2406,
+                  "Y": 0.0615
+                },
+                "LeftMargin": 88.0,
+                "RightMargin": 88.0,
+                "TopMargin": 306.5,
+                "BottomMargin": 54.5,
+                "Tag": 34,
+                "ActionTag": 1000391162,
+                "Size": {
+                  "X": 154.0,
+                  "Y": 59.0
+                },
+                "Name": "Button_9",
+                "ctype": "ButtonObjectData"
+              }
+            ],
+            "ActionTag": 351225333,
+            "Size": {
+              "X": 330.0,
+              "Y": 419.98
+            },
+            "Name": "Panel_2",
+            "ctype": "PanelObjectData"
+          }
+        ],
+        "Size": {
+          "X": 330.0,
+          "Y": 460.0
+        },
+        "Name": "Layer",
+        "ctype": "LayerObjectData"
+      },
+      "UsedResources": [
+        "DifficultySelection/DS16.png",
+        "Setting/BaS07.png",
+        "Setting/BaS08.png",
+        "Setting/BaS09.png",
+        "Setting/BaS10.png",
+        "Setting/BaS11.png",
+        "Setting/BaS17.png",
+        "Setting/DnE10.png",
+        "Setting/DnE15.png",
+        "Setting/pvpangle03.png",
+        "Setting/pvpangle04.png",
+        "Setting/pvpangle05.png",
+        "Setting/pvpangle06.png",
+        "Setting/PvPMsgBoard.png",
+        "Setting/Star026.png",
+        "Setting/Star026_2.png"
+      ],
+      "ctype": "GameProjectData"
+    }
+  },
+  "Type": "Layer"
+}

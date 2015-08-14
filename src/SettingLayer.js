@@ -3,33 +3,28 @@
  */
 
 var SettingLayer = BaseLayer.extend({
-    initUI:function(){
+    initUI: function () {
 
         var size = cc.winSize;
 
-        var closeItem = new cc.MenuItemImage(
-            res.CloseNormal_png,
-            res.CloseSelected_png,
-            function () {
-                cc.log("Menu is clicked!");
-                GameManager.getInstance().changeState(GL.GAME_STATE.START);
-            }, this);
-        closeItem.attr({
+        this._rootNode = ccs.csLoader.createNode(res.Setting_json);
+        this._rootNode.attr({
             x: size.width / 2,
             y: size.height / 2,
             anchorX: 0.5,
             anchorY: 0.5
-        });
+        })
+        this.addChild(this._rootNode, 4);
 
-        var menu = new cc.Menu(closeItem);
-        menu.x = 0;
-        menu.y = 0;
-        this.addChild(menu, 1);
-
-        var helloLabel = new cc.LabelTTF("Setting Layer", "Arial", 72);
-        helloLabel.x = size.width / 2;
-        helloLabel.y = size.height;
-        helloLabel.anchorY = 1;
-        this.addChild(helloLabel, 5);
+        var btn = ccui.helper.seekWidgetByName(this._rootNode, "Button_9");
+        btn.addTouchEventListener(this.touchEvent, this);
+    },
+    touchEvent: function (sender, type) {
+        if (type != ccui.Widget.TOUCH_ENDED)
+            return;
+        cc.log(sender.name);
+        if (sender.name == "Button_9")
+            this.closeSelf();
+        //GameManager.getInstance().changeState(GL.GAME_STATE.START);
     }
 });
